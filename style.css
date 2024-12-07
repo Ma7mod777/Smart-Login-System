@@ -1,0 +1,115 @@
+
+
+
+/* sign up */
+
+.parent-bg{
+    background-color: #24353F;
+}
+
+.login-bg{
+
+    background-color: #24353F;
+}
+
+.my-shaddow{
+
+    box-shadow: 0px 3px 10px black;
+    width: 60%;
+}
+
+.header-set{
+    color:#17A2B8;
+}
+
+.myinput:focus {
+
+background-color: #24353F;
+box-shadow: none;
+}
+
+.myinput::placeholder{
+
+color: white;
+opacity: .6;
+}
+
+.btn-login{
+    color: #17A2B8;
+    border-color: #17A2B8;
+}
+.btn-login:hover{
+
+    background-color: #17A2B8 !important;
+    color: white;
+}
+
+.sign-up{
+
+    text-decoration: none;
+    color: white;
+}
+.sign-up:hover{
+
+    text-decoration: underline;
+}
+
+
+
+
+
+
+/* my profile */
+.myf{
+
+    color:darkgoldenrod  !important;
+    font-size: 25px;
+}
+.logo{
+
+    font-family:cursive;
+    font-size: 20px;
+}
+.my-text{
+
+    color: white !important;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+.log-out:hover{
+background-color:darkgoldenrod !important;
+color: black !important;
+
+}
+
+.log-out{
+
+    transition: all .6s;
+}
+
+.my-title{
+
+    color: darkgoldenrod !important;
+}
+
+.my_home{
+
+    background : linear-gradient(rgba(0,0,0,.8) , rgba(0,0,0,.6))  , url(images/man-training-with-dumbbells-smoke.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+
+
+
+/* index */
+
+
+
+.my-anchor {
+
+    text-decoration: none;
+}
